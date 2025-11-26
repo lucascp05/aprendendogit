@@ -5,5 +5,6 @@ int main(){
     printf("lucas assis");
     printf("costa pereira");
     printf("aprendendo");
+    printf("lucas");
     return 0;
 }
